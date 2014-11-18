@@ -1,0 +1,9 @@
+AccessoriesInput
+CrossCollInput
+ShoesInput
+ClothingInput
+DisneyanaInput
+SouvenirsInput
+ComicsInput
+HistoricalInput
+CrossCSAInput
